@@ -1,6 +1,8 @@
 # Earth Seeker-Riiv-to-WBFS
 Earth Seeker riivolution to wbfs 
 
+THIS A WIP TOOL
+
 Disclaimer: this MODS createds by fans with no profit in mind. Super Mario hacks (and mods) must neither be sold for profit nor obtained through any means of piracy whatsoever
 
 You need a backup of your original game, but if you don't have it you must buy it
